@@ -33,7 +33,7 @@ It automates donor data collection, manages blood bank requests, and generates a
 
 ---
 
-## 💡 Interview Talking Points
+## 💡 Talking Points
 - Integrated **scraper + portal + reports** into one workflow.  
 - Optimized manual donor data processing time by **60%**.  
 - Achieved **95% accuracy** in donor synchronization.  
