@@ -1,5 +1,5 @@
 you should  have BloodBank data -
-include **sample scraped data + pre-generated Excel report** inside the repo so recruiters can see results immediately, even without running the scraper
+include **sample scraped data + pre-generated Excel report** inside the repo so, can see results immediately, even without running the scraper
 
 
 # Automated Web Scraper & Report Generator - Blood Bank Portal
