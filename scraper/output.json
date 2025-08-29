@@ -1,0 +1,5 @@
+[
+  {"name": "Amit Sharma", "blood_group": "A+", "location": "Delhi", "contact": "9876543210"},
+  {"name": "Neha Gupta", "blood_group": "B+", "location": "Mumbai", "contact": "8765432109"},
+  {"name": "Ravi Kumar", "blood_group": "O-", "location": "Bangalore", "contact": "7654321098"}
+]
